@@ -1,0 +1,32 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# PDF and Document processing
+PyPDF2
+python-docx
+
+# NLP and Text Processing
+spacy
+nltk
+
+# Machine Learning and AI
+langchain
+langchain-google-genai
+google-generativeai
+transformers
+
+# Vector Stores
+pinecone-client
+
+# Audio and Video Processing
+SpeechRecognition
+moviepy
+opencv-python-headless
+
+# Data Manipulation and Visualization
+numpy
+plotly
+
+# Additional dependencies
+asyncio
